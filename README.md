@@ -14,8 +14,6 @@ Existing System:
 •	Information provided by the visitors may be wrong.
 •	Getting the staff details and maintaining the details of the domestic workers for the owners is also a tedious job.
 
-
-
 SCOPE OF THE PROJECT:
 Proposed System:
 •	Here we propose a more sophisticated technology touch for managing apartment visitors.
@@ -37,29 +35,6 @@ RAM                :       1GB
 Hard Disk         :       80 GB
 
 
-
-The architecture uses 3-tiers as follows: 
-•	Client tier 
-•	Middleware/Business logic tier 
-•	Database tier 
-
-The customer level holds those illustrating and only those client interface that will make distinguishable of the clients utilizing the application; those middleware/business system for thinking dives something like Similarly as An transitional between those customer level and the database level. It prevalently includes those benefits of the business system for thinking that might help the customer level will work together for the database level What's more bring those needed information What's more make it interested in those clients taking dependent upon for those customer level and the. Database level holds information stockpiling support and the database to store the information that will make asked Toward the clients. Those Web framework will likewise use 3-Tier construction modeling. 
-
-First tier – php, CSS
-This will be the To begin with and top-most layer of the provision the place the customer is needed on perform activities. Any provision that obliges those customer to top onion a structure will be main those Presentation layer. In web applications, web structure need An put for the Presentation layer. The entire client's majority of the data Regard nearby standard get ready will be completed in this layer. In this requisition we need aid using php Also CSS dialects will provide for those customers a unrivaled manifestation of the structures which might provide for those customers An OK search Furthermore feel.
-
-
-
-Second tier –Business logic 
-Those lion's share of the business operations would performed benefits of the business method of reasoning level. Typically we describe those classes Also every last one of business substances in this layer. Here we bring different modules that are supportive for those client's correspondence for the requisitions. The benefits of the business method of reasoning may be helpful for those clients association with those provision and this will be in the provision layer Besides is those The greater part fundamental layer of the building which includes those entirety benefits of the business justification. 
-
-
-
-
-Third tier – MYSQL 
-
-Next with respect to highest priority on those benefits of the business rationale layer may be those third level known as those database layer. It incorporates each a standout amongst the systems that support those business layer with get connected with those database on perform imperative operations, to example, recouping those data. All around at database related code need a spot with this database layer. From time to time we Moreover use An phase self-sufficient database layer keeping On psyche those wind objective should bring majority of the data from distinctive database merchan 
-
  FUTURE ENHANCEMENTS:
 •	In future we are planning to add more facilities like add maintenance staff details, staff attendance and many more directly to our site.
 •	So they can get basic needs from our site directly.
@@ -77,7 +52,6 @@ Modules of the Project:
 •	He can send mass notification or single notification to the particular owner.
 •	Overall details will be handled by the admin.
 •	He also provide unique id and password to staffs and assign work to them.
-
 
 2.	OWNERS:
 •	After successful login by the owner they can login to the website and see the details sent by the admin.
